@@ -1,0 +1,13 @@
+{
+  "name": "workshop-html-css",
+  "description": "Workshop html and css",
+  "version": "0.1.0",
+  "author": "Design and developer team",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gemaderus/workshop-html-css"
+  },
+  "scripts": {
+    "start": "browser-sync start --server --watch --files css/*.css"
+  }
+}
