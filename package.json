@@ -9,5 +9,8 @@
   },
   "scripts": {
     "start": "browser-sync start --server --watch --files css/*.css"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3"
   }
 }
